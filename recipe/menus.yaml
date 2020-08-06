@@ -1,0 +1,62 @@
+# 和風
+-
+  title: "肉じゃが"
+  ingredients: "じゃがいも、たまねぎ、にんじん、ぶたにく"
+-
+  title: "ぶり大根"
+  ingredients: "ぶり、だいこん"
+-
+  title: "TKG"
+  ingredients: "たまご、ごはん、しろだし、しょうゆ"
+-
+  title: "あさりうどん"
+  ingredients: "うどん、ねぎ、あさり"
+-
+  title: "あさりとキャベツの酒蒸し"
+  ingredients: "あさり、ねぎ、きゃべつ"
+-
+  title: "豚肉のしょうが焼き"
+  ingredients: "しょうが、ぶたにく、たまねぎ"
+-
+  title: "さばのアラ汁"
+  ingredients: "みそ、しろだし、さばかん、ねぎ"
+-
+  title: "釜玉うどん"
+  ingredients: "うどん、たまご、しろだし"
+
+# 洋風
+-
+  title: "カレー"
+  ingredients: "たまねぎ、にんじん、ぶたにく、じゃがいも、かれーるー"
+-
+  title: "ハンバーグ"
+  ingredients: "たまご、ひきにく、たまねぎ"
+-
+  title: "ポトフ"
+  ingredients: "たまねぎ、にんじん、じゃがいも、ぶろっくべーこん、こんそめ"
+-
+  title: "ジャーマンポテト"
+  ingredients: "じゃがいも、べーこん、にんにく"
+-
+  title: "オムライス"
+  ingredients: "たまご、とりにく、とまと、たまねぎ"
+-
+  title: "グラタン"
+  ingredients: "ばたー、こむぎこ、たまねぎ、まかろに、とりに、ちーず、ぎゅうにゅう"
+
+# 中華
+-
+  title: "スーラータンメン"
+  ingredients: "たまご、にら、らーめん"
+-
+  title: "チャーハン"
+  ingredients: "ぶたにく、ごはん、たまご、ねぎ"
+-
+  title: "回鍋肉"
+  ingredients: "ぶたにく、きゃべつ、ぴーまん、こちゅじゃん、てんめんじゃん"
+-
+  title: "スープチャーハン"
+  ingredients: "ぶたにく、たまご、ごはん、ねぎ、とりがら"
+-
+  title: "マーボー豆腐"
+  ingredients: "とうふ、ごはん、ねぎ、ごまあぶら、まーぼーのもと"
